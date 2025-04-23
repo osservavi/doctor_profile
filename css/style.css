@@ -38,6 +38,17 @@
     font-weight: 500;
 }
 
+.btn-primary {
+    background-color:#6f42c1 ;
+    border-color: #6f42c1;
+}
+
+.btn-ptimary:hover {
+    background-color: #c1a9ec;
+    border-color: #c1a9ec;
+    color: black;
+}
+
 section {
     padding: 80px 0;
 }
